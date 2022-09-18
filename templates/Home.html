@@ -1,0 +1,86 @@
+{% extends 'Base.html' %} {% block title %} Home{% endblock %} {% block content %}
+
+<section>
+    <div class="container ">
+        <div class="background-img ">
+            <form hx-post="/checkurl " 
+            hx-swap="afterbegin"
+            hx-target="#videos "
+            _="on submit toggle @disabled on #btna until htmx:afterOnLoad then put '' into #url's value 
+           ">
+            
+            <div id="errors"></div>
+            
+              
+
+
+
+         
+                <div class="webflow-style-input">
+                    <img id="icon" class="iconsite" src="icon/web.png" alt="">
+                    <input autocomplete="off" id="url" name="url" type="text" placeholder="Enter the link here please !"></input>
+                    <button id="btna" type="submit" ><i class="icon ion-android-add-circle"></i></button>
+                </div>
+                
+                <div class="video-box" id="videos"/>                    
+                    
+                <div class="wrappei htmx-indicator my-indicator">
+                    <div class="loader">
+                      <div></div>
+                      <div></div>
+                      <div></div>
+                      <div></div>
+                      <div></div>
+                      <div></div>
+                      <div></div>
+                      <div></div>
+                      <div></div>
+                    </div>
+                  </div>
+        </div>
+        
+        </form>
+   
+       
+
+
+        <!-- 
+            <div class="box">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <div class="content">
+                    <h2>My animated Border </h2>
+                    <p><a>All our modules are designed to play nicely with responsive of course. At the end of the day it comes down to the theme you use - our code doesn't get in your way.</a></p>
+                </div>
+
+            </div>
+        -->
+    </div>
+    </div>
+</section>
+
+
+<div class="toast-container position-fixed top-0 end-0 p-3">
+    <div id="errortoast" class="toast" role="alert" aria-live="assertive" aria-atomic="true">
+      <div class="toast-header">
+        <strong class="me-auto">No videos found</strong>
+        <small>11 mins ago</small>
+        <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
+      </div>
+      <div class="toast-body">
+        No videos found
+      </div>
+    </div>
+  </div>
+
+<script>  
+    htmx.on("htmx:responseError", function () {
+        const errortoast = document.getElementById("errortoast")
+        const toast = new bootstrap.Toast(errortoast)
+        toast.show()
+    })
+   </script>
+
+{% endblock %}

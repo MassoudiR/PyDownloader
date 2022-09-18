@@ -1,0 +1,27 @@
+<div class="fadein video-item">
+    <div class="imgbox">
+        <i class="delete fa fa-trash " onclick="removevideo(this);"></i>
+        <img src="{{context[1]}}" alt="img"></div>
+    <div class="video-title">{{context[0]}}</div>
+
+    <button type="button" data-bs-toggle="modal" data-bs-target="#{{context[4]}}" class="btndow">
+            <i class="fas fa-angle-down"></i></button>
+
+
+</div>
+<!-- Modal -->
+<div class="modal fade" id="{{context[4]}}" tabindex="-1" aria-labelledby="ModalVideo" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="ModalVideo">{{context[0]}}</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body" style="display: grid;">
+                {% for q in context[3]%}
+                <a class="fas fa-arrow-alt-circle-down btn" rel="nofollow" target="_blank" type="button" href="{{context[3][q]}}" download="{{q}}"><span class="txt">&#68;ownload {{q}}</span></a> {%endfor%}
+            </div>
+
+        </div>
+    </div>
+</div>
