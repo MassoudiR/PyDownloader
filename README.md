@@ -32,17 +32,18 @@ Supported sites
 
       _________
 
-      ![Youtube](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.png )![Vimeo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Vimeo_Logo.svg/2560px-Vimeo_Logo.svg.png)
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.png" width="200"  />          &nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Vimeo_Logo.svg/2560px-Vimeo_Logo.svg.png" width="200"  />
 
   - social media
 
       _________
 
-      ![Facebook](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/2048px-Facebook_f_logo_%282019%29.svg.png)
-![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png)
-![Tiktok](https://logolook.net/wp-content/uploads/2021/06/Tiktok-Logo-2016.png)
-![Twitter](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png)
-![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/2048px-Facebook_f_logo_%282019%29.svg.png" width="100" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" width="100" />
+      <img src="https://logolook.net/wp-content/uploads/2021/06/Tiktok-Logo-2016.png" width="200" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png" width="100"  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="100"  />
+
 
 
   - Other sites
