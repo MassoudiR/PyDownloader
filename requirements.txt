@@ -1,0 +1,12 @@
+beautifulsoup4==4.9.3
+Flask==2.2.1
+instaloader==4.9.3
+PyTikTokAPI==0.0.5
+pytube==12.1.0
+requests==2.28.1
+tiktok-downloader==0.3.4
+TikTokApi==5.2.2
+twitter-dl==0.2.0
+urllib3==1.26.2
+vimeo-downloader==0.4.1
+youtube-dl==2021.12.17
