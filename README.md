@@ -56,10 +56,14 @@ Supported sites
 ## Screenshot
 
 
-![01](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDNsJae7c3pA_VpBi4kw9U4-56VTcGCec5EklMOpjHXz8cH4fMM8OJEEavR99kYTjbZiygHUp2uoEecYtF14UT434krfZOE37sEa2rYtiy3K6wklSrZeRZqtGMyA4nw6zxJmNfTeuHCCkjtZWv9Zhz9YYZErLh331NDDzrG7PTjRG4Xkd19SgxaPF2iw/s1280/01.gif)
-![02](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXfqmGAptmcC-gMk0SQ5JFFvUE464WLME_kkoswWmQsg7OsGhk11UPWdvba4oFaKpv_U8jWuoqla1Or3oVHErFyHTapk-diWujgQuGyZt6l79AeP5Yj_RX0qGGS7gbt0HQVIjE0QWMwhbKp6O8nB0hZuemzbT8CsBbr4FQD7GYQrilWZvIuxtFLpEbqw/s1280/2.gif)
-![03](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwnh_BAVQXy_Na2MSZO-7o7EH-h98aHRwnijU8ZtLr7PsHAzdDFIi3KW2D_iVzk2FtsMhHn8Acn7mht9uaTt57qWHWwiq3Amqb0XC4d8YRu3-k_AAm-rk3CAD615uPUTrKz8Z0QHEpaTWIyGL9xPIDx8CjH5XrXvkJQJtd_8GA3_Iikuo1DcJVmsypQw/s690/3.gif)
+![Web Video](https://github.com/MassoudiR/PyDownloader/releases/download/untagged-37a82053e30f1c4c01f8/01.gif)
+![Web Video](https://github.com/MassoudiR/PyDownloader/releases/download/untagged-37a82053e30f1c4c01f8/2.gif)
+![Web Video](https://github.com/MassoudiR/PyDownloader/releases/download/untagged-37a82053e30f1c4c01f8/3.gif)
 
+
+
+    
+    
 
 
 
